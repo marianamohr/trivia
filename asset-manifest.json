@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.660cbfc1.chunk.css",
-    "main.js": "/static/js/main.9f3744da.chunk.js",
-    "main.js.map": "/static/js/main.9f3744da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0aacbbf5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0aacbbf5.js.map",
-    "static/js/2.e7d7c9af.chunk.js": "/static/js/2.e7d7c9af.chunk.js",
-    "static/js/2.e7d7c9af.chunk.js.map": "/static/js/2.e7d7c9af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4543732fa5880fb87093cd6b1dc2713f.js": "/precache-manifest.4543732fa5880fb87093cd6b1dc2713f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.660cbfc1.chunk.css.map": "/static/css/main.660cbfc1.chunk.css.map",
-    "static/js/2.e7d7c9af.chunk.js.LICENSE": "/static/js/2.e7d7c9af.chunk.js.LICENSE",
-    "static/media/Ranking.css": "/static/media/hades.096a202b.jpg",
-    "static/media/Feedback.css": "/static/media/hera.61b88b29.jpg",
-    "static/media/Game.css": "/static/media/poseidon.ac1fcfc5.jpg",
-    "static/media/Settings.css": "/static/media/zeus.04762dd9.jpg"
+    "main.css": "/trivia/static/css/main.6916a519.chunk.css",
+    "main.js": "/trivia/static/js/main.a7789173.chunk.js",
+    "main.js.map": "/trivia/static/js/main.a7789173.chunk.js.map",
+    "runtime-main.js": "/trivia/static/js/runtime-main.6e763e45.js",
+    "runtime-main.js.map": "/trivia/static/js/runtime-main.6e763e45.js.map",
+    "static/js/2.e7d7c9af.chunk.js": "/trivia/static/js/2.e7d7c9af.chunk.js",
+    "static/js/2.e7d7c9af.chunk.js.map": "/trivia/static/js/2.e7d7c9af.chunk.js.map",
+    "index.html": "/trivia/index.html",
+    "precache-manifest.4bf3d7b5da3195569d8ef60085fff12f.js": "/trivia/precache-manifest.4bf3d7b5da3195569d8ef60085fff12f.js",
+    "service-worker.js": "/trivia/service-worker.js",
+    "static/css/main.6916a519.chunk.css.map": "/trivia/static/css/main.6916a519.chunk.css.map",
+    "static/js/2.e7d7c9af.chunk.js.LICENSE": "/trivia/static/js/2.e7d7c9af.chunk.js.LICENSE",
+    "static/media/Ranking.css": "/trivia/static/media/hades.096a202b.jpg",
+    "static/media/Feedback.css": "/trivia/static/media/hera.61b88b29.jpg",
+    "static/media/Game.css": "/trivia/static/media/poseidon.ac1fcfc5.jpg",
+    "static/media/Settings.css": "/trivia/static/media/zeus.04762dd9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0aacbbf5.js",
+    "static/js/runtime-main.6e763e45.js",
     "static/js/2.e7d7c9af.chunk.js",
-    "static/css/main.660cbfc1.chunk.css",
-    "static/js/main.9f3744da.chunk.js"
+    "static/css/main.6916a519.chunk.css",
+    "static/js/main.a7789173.chunk.js"
   ]
 }
