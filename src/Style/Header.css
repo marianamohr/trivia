@@ -1,0 +1,15 @@
+header {
+  background-color: rgb(20, 40, 72);
+  border-bottom: 1px solid white;
+  color: white;
+  font-family: Dalek Pinpoint , sans-serif;
+  font-size: 19px;
+  height: 120px;
+}
+
+header img {
+  border: 1px solid white;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}

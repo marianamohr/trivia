@@ -1,0 +1,32 @@
+.feedback {
+  background-image: url('../images/hera.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Dalek Pinpoint , sans-serif;
+  height: 100vh;
+}
+
+.box-feedback {
+  color: white;
+  margin-left: 11vw;
+  margin-top: 9vw;
+  text-shadow: 1px 1px 10px black;
+  width: 40vw;
+}
+
+.box-feedback h1 {
+  font-size: 40px;
+}
+
+.box-feedback h2 {
+  font-size: 25px;
+}
+
+.btn-feedback {
+  background-color: goldenrod;
+  box-shadow: 5px 5px 10px rgb(255, 254, 145);
+  font-family: Dalek Pinpoint , sans-serif;
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px 15px;
+}

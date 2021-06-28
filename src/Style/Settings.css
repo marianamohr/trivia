@@ -1,0 +1,53 @@
+.settings {
+  background-image: url('../images/zeus.jpg');
+  height: 100vh;
+  padding-top: 200px;
+  width: 100vw;
+}
+
+.settings h1 {
+  text-shadow: 5px 5px 10px white;
+}
+
+.box-settings {
+  align-items: center;
+  background-color: rgb(20, 40, 72);
+  box-shadow: 5px 5px 50px rgb(252, 245, 219);
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  justify-content: center;
+  margin-left: 250px;
+  opacity: 0.85;
+  padding: 20px;
+  width: 30vw;
+}
+
+.options {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  padding-top: 15px;
+}
+
+.options select {
+  font-size: 17px;
+  margin: 5px;
+  padding: 5px;
+  width: 200px;
+}
+
+.btn-save-settings {
+  margin: 10px;
+  padding: 5px 25px;
+}
+
+.box-intern {
+  display: flex;
+  flex-direction: collumn;
+  padding: 5px;
+  width: 210px;
+}
+

@@ -1,0 +1,64 @@
+.formContainer {
+  align-items: center;
+  background-image: url('../images/zeus.jpg');
+  background-position: right bottom;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+form {
+  align-items: center;
+  background-color: rgb(20, 40, 72);
+  box-shadow: 5px 5px 50px rgb(252, 245, 219);
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  justify-content: center;
+  margin: auto;
+  opacity: 0.85;
+  width: 25vw;
+}
+
+.btn-settings {
+  align-self: flex-start;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.settings-icon {
+  width: 40px;
+}
+
+.btn-ranking {
+  align-self: flex-start;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.ranking-icon {
+  width:50px;
+}
+
+.name-triva {
+  font-family: Dalek Pinpoint , sans-serif;
+  padding-bottom: 2rem;
+  text-shadow: 1px 1px 5px white;
+
+}
+
+#input-player-name {
+  font-family: Dalek Pinpoint , sans-serif;
+  margin: 5px;
+  padding: 5px;
+}
+
+#input-gravatar-email {
+  font-family: Dalek Pinpoint , sans-serif;
+  margin: 5px;
+  margin-bottom: 50px;
+  padding: 5px;
+}
+
+.btn-play {
+  font-family: Dalek Pinpoint , sans-serif;
+  padding: 5px 25px;
+}
