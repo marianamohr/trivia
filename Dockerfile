@@ -1,5 +1,7 @@
-FROM node:14-alpine as trivia
-EXPOSE 3000
+FROM node:16
 WORKDIR /app
+EXPOSE 3000
+ADD node_modules.tar.gz .
 COPY . .
-CMD ["npm", "start"]
+ENTRYPOINT [ "npm" ]
+CMD [ "start" ]
